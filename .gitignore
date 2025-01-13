@@ -23,9 +23,12 @@ wheels/
 .installed.cfg
 *.egg
 
-# Logs
+# Logs - loại trừ tất cả file log và thư mục logs
 logs/
+logs/*.log
 *.log
+debug.log
+error.log
 
 # IDE
 .idea/
@@ -36,3 +39,6 @@ logs/
 # OS
 .DS_Store
 Thumbs.db
+
+# History files
+.history/

@@ -14,10 +14,11 @@ Chức năng:
 - Block tất cả phím khác khi đang xử lý Right Shift
 - Hiển thị icon trên taskbar và thay đổi icon theo trạng thái
 - Chỉ cho phép chuyển ngôn ngữ khi không đang trong quá trình xử lý
+- Có cơ chế debounce để tránh trigger nhiều lần
 """
 
 import keyboard
-from time import sleep
+from time import sleep, time
 import pystray
 from PIL import Image
 import os
@@ -27,6 +28,8 @@ from src.utils.logger import logger
 tray_icon = None
 is_switching = False  # Flag để kiểm soát việc chuyển ngôn ngữ
 is_processing = False  # Flag để kiểm soát quá trình xử lý
+last_switch_time = 0  # Thời điểm lần cuối chuyển ngôn ngữ
+SWITCH_COOLDOWN = 0.5  # Thời gian chờ tối thiểu giữa các lần chuyển (500ms)
 BASE_PATH = os.path.dirname(os.path.dirname(os.path.dirname(__file__)))
 
 def update_icon(is_active=False):
@@ -42,8 +45,10 @@ def update_icon(is_active=False):
         logger.error(f'Lỗi khi cập nhật icon: {str(e)}')
 
 def on_any_key(event):
-    global is_switching, is_processing
+    global is_switching, is_processing, last_switch_time
     logger.debug(f'Phím được nhấn: {event.name}, Scan code: {event.scan_code}')
+
+    current_time = time()
 
     # Nếu đang xử lý và không phải Right Shift, block tất cả phím khác
     if is_processing and event.scan_code != 54:
@@ -52,15 +57,20 @@ def on_any_key(event):
 
     # Kiểm tra phím Right Shift (scan code 54)
     if event.scan_code == 54:
-        if event.event_type == 'down' and not is_switching and not is_processing:
-            logger.debug('Đã phát hiện phím Right Shift được nhấn')
-            is_switching = True
-            is_processing = True
-            update_icon(True)
-            switch_language()
+        if event.event_type == 'down':
+            # Kiểm tra thời gian chờ
+            if current_time - last_switch_time < SWITCH_COOLDOWN:
+                logger.debug('Block do chưa hết thời gian chờ')
+                return False
+
+            if not is_switching and not is_processing:
+                logger.debug('Đã phát hiện phím Right Shift được nhấn')
+                is_switching = True
+                is_processing = True
+                last_switch_time = current_time
+                switch_language()
+                update_icon(True)
         elif event.event_type == 'up' and is_switching:
-            # Đợi một chút để đảm bảo tổ hợp phím đã được xử lý xong
-            sleep(0.5)
             is_switching = False
             is_processing = False
             update_icon(False)
@@ -69,11 +79,10 @@ def on_any_key(event):
 def switch_language():
     try:
         logger.debug('Bắt đầu chuyển ngôn ngữ')
-        # Sử dụng Control + Left Shift thay vì Control + Shift
+        # Giảm thời gian đợi xuống 100ms
         keyboard.press('ctrl')
         keyboard.press('left shift')
-        logger.debug('Đã nhấn Control + Left Shift')
-        sleep(0.3)
+        sleep(0.1)  # Giảm từ 300ms xuống 100ms
         keyboard.release('left shift')
         keyboard.release('ctrl')
         logger.debug('Đã chuyển ngôn ngữ thành công')

@@ -238,3 +238,2036 @@
 2025-01-13 14:32:52 - EVKeyboardSwitcher - INFO - Khởi động chương trình...
 2025-01-13 14:32:53 - EVKeyboardSwitcher - INFO - Đã thiết lập keyboard handler thành công
 2025-01-13 14:32:53 - EVKeyboardSwitcher - INFO - Đã tạo system tray icon thành công
+2025-01-13 14:36:31 - EVKeyboardSwitcher - DEBUG - Logger được khởi tạo ở chế độ DEBUG
+2025-01-13 14:36:31 - EVKeyboardSwitcher - INFO - Khởi động chương trình...
+2025-01-13 14:36:31 - EVKeyboardSwitcher - DEBUG - DEBUG mode: True
+2025-01-13 14:36:31 - EVKeyboardSwitcher - DEBUG - Thư mục gốc: F:\Dropbox\dev\python\python-unikey-switcher
+2025-01-13 14:36:31 - EVKeyboardSwitcher - DEBUG - Chuyển đến thư mục gốc: F:\Dropbox\dev\python\python-unikey-switcher
+2025-01-13 14:36:31 - EVKeyboardSwitcher - DEBUG - File cây thư mục: .files-dir-tree.md
+2025-01-13 14:36:31 - EVKeyboardSwitcher - DEBUG - Bắt đầu tạo nội dung cây thư mục
+2025-01-13 14:36:31 - EVKeyboardSwitcher - DEBUG - Bắt đầu tạo cây thư mục từ: .
+2025-01-13 14:36:31 - EVKeyboardSwitcher - DEBUG - Đường dẫn tuyệt đối: F:\Dropbox\dev\python\python-unikey-switcher
+2025-01-13 14:36:31 - EVKeyboardSwitcher - DEBUG - Đã tìm thấy 30 mục
+2025-01-13 14:36:31 - EVKeyboardSwitcher - DEBUG - Ghi nội dung vào file: F:\Dropbox\dev\python\python-unikey-switcher\.files-dir-tree.md
+2025-01-13 14:36:31 - EVKeyboardSwitcher - INFO - Đã cập nhật file cấu trúc thư mục: F:\Dropbox\dev\python\python-unikey-switcher\.files-dir-tree.md
+2025-01-13 14:36:31 - EVKeyboardSwitcher - INFO - Đã thiết lập keyboard handler thành công
+2025-01-13 14:36:31 - EVKeyboardSwitcher - INFO - Đã tạo system tray icon thành công
+2025-01-13 14:36:35 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: t, Scan code: 20
+2025-01-13 14:36:35 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: h, Scan code: 35
+2025-01-13 14:36:35 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: t, Scan code: 20
+2025-01-13 14:36:35 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: u, Scan code: 22
+2025-01-13 14:36:35 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: h, Scan code: 35
+2025-01-13 14:36:35 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: w, Scan code: 17
+2025-01-13 14:36:35 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:36:35 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:36:35 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: u, Scan code: 22
+2025-01-13 14:36:35 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: c, Scan code: 46
+2025-01-13 14:36:35 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: w, Scan code: 17
+2025-01-13 14:36:35 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: j, Scan code: 36
+2025-01-13 14:36:35 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:36:35 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:36:35 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:36:35 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:36:36 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: c, Scan code: 46
+2025-01-13 14:36:36 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:36:36 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: j, Scan code: 36
+2025-01-13 14:36:36 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:36:36 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: t, Scan code: 20
+2025-01-13 14:36:36 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: h, Scan code: 35
+2025-01-13 14:36:36 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: t, Scan code: 20
+2025-01-13 14:36:36 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: i, Scan code: 23
+2025-01-13 14:36:36 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: h, Scan code: 35
+2025-01-13 14:36:36 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:36:36 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: i, Scan code: 23
+2025-01-13 14:36:36 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:36:36 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: n, Scan code: 49
+2025-01-13 14:36:36 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: n, Scan code: 49
+2025-01-13 14:36:36 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: a, Scan code: 30
+2025-01-13 14:36:36 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: f, Scan code: 33
+2025-01-13 14:36:36 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:36:36 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:36:36 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: o, Scan code: 24
+2025-01-13 14:36:36 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: a, Scan code: 30
+2025-01-13 14:36:36 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: f, Scan code: 33
+2025-01-13 14:36:36 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:36:36 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: o, Scan code: 24
+2025-01-13 14:36:36 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:36:36 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: c, Scan code: 46
+2025-01-13 14:36:36 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: c, Scan code: 46
+2025-01-13 14:36:36 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: a, Scan code: 30
+2025-01-13 14:36:37 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: s, Scan code: 31
+2025-01-13 14:36:37 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:36:37 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:36:37 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: a, Scan code: 30
+2025-01-13 14:36:37 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: c, Scan code: 46
+2025-01-13 14:36:37 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:36:37 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: s, Scan code: 31
+2025-01-13 14:36:37 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:36:37 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: c, Scan code: 46
+2025-01-13 14:36:37 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: b, Scan code: 48
+2025-01-13 14:36:37 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: b, Scan code: 48
+2025-01-13 14:36:37 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: a, Scan code: 30
+2025-01-13 14:36:37 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: a, Scan code: 30
+2025-01-13 14:36:37 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: j, Scan code: 36
+2025-01-13 14:36:37 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:36:37 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:36:37 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: j, Scan code: 36
+2025-01-13 14:36:37 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: n, Scan code: 49
+2025-01-13 14:36:37 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:36:37 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: n, Scan code: 49
+2025-01-13 14:36:37 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:36:37 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: ., Scan code: 52
+2025-01-13 14:36:37 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: ., Scan code: 52
+2025-01-13 14:36:38 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:36:38 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:36:38 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:36:38 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:36:38 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:36:38 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:36:38 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:36:38 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:36:38 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:36:38 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:36:39 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:36:39 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:36:39 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:36:39 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:36:39 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: c, Scan code: 46
+2025-01-13 14:36:39 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: o, Scan code: 24
+2025-01-13 14:36:39 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: c, Scan code: 46
+2025-01-13 14:36:39 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: o, Scan code: 24
+2025-01-13 14:36:39 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: s, Scan code: 31
+2025-01-13 14:36:39 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: s, Scan code: 31
+2025-01-13 14:36:39 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:36:39 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:36:39 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:36:39 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:36:39 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:36:40 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:36:40 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:36:40 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:36:40 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:36:40 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:36:40 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:36:40 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:36:40 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:36:40 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:36:40 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:36:40 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:36:40 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: c, Scan code: 46
+2025-01-13 14:36:40 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: o, Scan code: 24
+2025-01-13 14:36:40 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: c, Scan code: 46
+2025-01-13 14:36:41 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: n, Scan code: 49
+2025-01-13 14:36:41 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: f, Scan code: 33
+2025-01-13 14:36:41 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:36:41 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:36:41 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:36:41 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:36:41 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: o, Scan code: 24
+2025-01-13 14:36:41 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: f, Scan code: 33
+2025-01-13 14:36:41 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: n, Scan code: 49
+2025-01-13 14:36:41 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:36:41 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:36:41 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: g, Scan code: 34
+2025-01-13 14:36:41 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: g, Scan code: 34
+2025-01-13 14:36:41 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: i, Scan code: 23
+2025-01-13 14:36:41 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: f, Scan code: 33
+2025-01-13 14:36:41 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:36:41 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:36:41 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: i, Scan code: 23
+2025-01-13 14:36:41 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:36:41 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: f, Scan code: 33
+2025-01-13 14:36:41 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:36:41 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: p, Scan code: 25
+2025-01-13 14:36:41 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: h, Scan code: 35
+2025-01-13 14:36:41 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: p, Scan code: 25
+2025-01-13 14:36:41 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: a, Scan code: 30
+2025-01-13 14:36:41 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: h, Scan code: 35
+2025-01-13 14:36:41 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: r, Scan code: 19
+2025-01-13 14:36:41 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:36:41 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:36:41 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: a, Scan code: 30
+2025-01-13 14:36:41 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: i, Scan code: 23
+2025-01-13 14:36:41 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:36:41 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: i, Scan code: 23
+2025-01-13 14:36:41 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: r, Scan code: 19
+2025-01-13 14:36:41 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:36:41 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: l, Scan code: 38
+2025-01-13 14:36:42 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: l, Scan code: 38
+2025-01-13 14:36:42 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: a, Scan code: 30
+2025-01-13 14:36:42 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: f, Scan code: 33
+2025-01-13 14:36:42 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:36:42 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:36:42 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: a, Scan code: 30
+2025-01-13 14:36:42 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: m, Scan code: 50
+2025-01-13 14:36:42 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:36:42 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: m, Scan code: 50
+2025-01-13 14:36:42 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: f, Scan code: 33
+2025-01-13 14:36:42 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:36:42 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: n, Scan code: 49
+2025-01-13 14:36:42 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: w, Scan code: 17
+2025-01-13 14:36:42 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: n, Scan code: 49
+2025-01-13 14:36:42 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: w, Scan code: 17
+2025-01-13 14:36:42 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: a, Scan code: 30
+2025-01-13 14:36:42 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: x, Scan code: 45
+2025-01-13 14:36:42 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:36:42 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:36:42 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:36:42 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:36:42 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: a, Scan code: 30
+2025-01-13 14:36:42 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:36:42 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:36:42 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: x, Scan code: 45
+2025-01-13 14:36:42 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: k, Scan code: 37
+2025-01-13 14:36:42 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: k, Scan code: 37
+2025-01-13 14:36:42 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: h, Scan code: 35
+2025-01-13 14:36:42 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: h, Scan code: 35
+2025-01-13 14:36:42 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: o, Scan code: 24
+2025-01-13 14:36:42 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: o, Scan code: 24
+2025-01-13 14:36:42 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: o, Scan code: 24
+2025-01-13 14:36:42 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:36:42 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:36:42 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: n, Scan code: 49
+2025-01-13 14:36:43 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: o, Scan code: 24
+2025-01-13 14:36:43 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: n, Scan code: 49
+2025-01-13 14:36:43 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: g, Scan code: 34
+2025-01-13 14:36:43 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: g, Scan code: 34
+2025-01-13 14:36:43 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: shift, Scan code: 42
+2025-01-13 14:36:43 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: ?, Scan code: 53
+2025-01-13 14:36:43 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: ?, Scan code: 53
+2025-01-13 14:36:43 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: shift, Scan code: 42
+2025-01-13 14:36:43 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:36:43 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:36:43 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:36:43 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:36:43 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:36:43 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:36:43 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:36:43 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:36:43 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:36:43 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:36:44 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: h, Scan code: 35
+2025-01-13 14:36:44 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: h, Scan code: 35
+2025-01-13 14:36:44 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: a, Scan code: 30
+2025-01-13 14:36:44 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: y, Scan code: 21
+2025-01-13 14:36:44 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: a, Scan code: 30
+2025-01-13 14:36:44 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:36:44 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: y, Scan code: 21
+2025-01-13 14:36:44 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:36:45 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: s, Scan code: 31
+2025-01-13 14:36:45 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: a, Scan code: 30
+2025-01-13 14:36:45 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: s, Scan code: 31
+2025-01-13 14:36:45 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: o, Scan code: 24
+2025-01-13 14:36:45 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: a, Scan code: 30
+2025-01-13 14:36:45 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:36:45 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: o, Scan code: 24
+2025-01-13 14:36:45 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:36:45 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: t, Scan code: 20
+2025-01-13 14:36:45 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: t, Scan code: 20
+2025-01-13 14:36:45 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: a, Scan code: 30
+2025-01-13 14:36:45 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: a, Scan code: 30
+2025-01-13 14:36:45 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:36:45 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:36:46 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: shift, Scan code: 42
+2025-01-13 14:36:46 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: shift, Scan code: 42
+2025-01-13 14:36:46 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: shift, Scan code: 42
+2025-01-13 14:36:46 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: shift, Scan code: 42
+2025-01-13 14:36:46 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: shift, Scan code: 42
+2025-01-13 14:36:46 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: shift, Scan code: 42
+2025-01-13 14:36:46 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: shift, Scan code: 42
+2025-01-13 14:36:46 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: shift, Scan code: 42
+2025-01-13 14:36:46 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: enter, Scan code: 28
+2025-01-13 14:36:46 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: enter, Scan code: 28
+2025-01-13 14:36:47 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: shift, Scan code: 42
+2025-01-13 14:36:47 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: e, Scan code: 18
+2025-01-13 14:36:47 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: e, Scan code: 18
+2025-01-13 14:36:47 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: n, Scan code: 49
+2025-01-13 14:36:47 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: n, Scan code: 49
+2025-01-13 14:36:47 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: g, Scan code: 34
+2025-01-13 14:36:47 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: l, Scan code: 38
+2025-01-13 14:36:47 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: g, Scan code: 34
+2025-01-13 14:36:47 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: i, Scan code: 23
+2025-01-13 14:36:47 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: l, Scan code: 38
+2025-01-13 14:36:47 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: s, Scan code: 31
+2025-01-13 14:36:47 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: i, Scan code: 23
+2025-01-13 14:36:47 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: h, Scan code: 35
+2025-01-13 14:36:47 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: s, Scan code: 31
+2025-01-13 14:36:47 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:36:47 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: h, Scan code: 35
+2025-01-13 14:36:47 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:36:47 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:36:47 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:36:47 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:36:48 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:36:48 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:36:48 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:36:48 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:36:48 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:36:48 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: l, Scan code: 38
+2025-01-13 14:36:48 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: l, Scan code: 38
+2025-01-13 14:36:48 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: a, Scan code: 30
+2025-01-13 14:36:48 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: f, Scan code: 33
+2025-01-13 14:36:48 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:36:48 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:36:48 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: a, Scan code: 30
+2025-01-13 14:36:48 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: f, Scan code: 33
+2025-01-13 14:36:48 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:36:48 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:36:48 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: m, Scan code: 50
+2025-01-13 14:36:48 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: m, Scan code: 50
+2025-01-13 14:36:48 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: o, Scan code: 24
+2025-01-13 14:36:48 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: o, Scan code: 24
+2025-01-13 14:36:49 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: o, Scan code: 24
+2025-01-13 14:36:49 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:36:49 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:36:49 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: j, Scan code: 36
+2025-01-13 14:36:49 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:36:49 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:36:49 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: t, Scan code: 20
+2025-01-13 14:36:49 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: o, Scan code: 24
+2025-01-13 14:36:49 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: j, Scan code: 36
+2025-01-13 14:36:49 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:36:49 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: t, Scan code: 20
+2025-01-13 14:36:49 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:36:49 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: n, Scan code: 49
+2025-01-13 14:36:49 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: n, Scan code: 49
+2025-01-13 14:36:49 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: g, Scan code: 34
+2025-01-13 14:36:49 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: g, Scan code: 34
+2025-01-13 14:36:49 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: o, Scan code: 24
+2025-01-13 14:36:49 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: o, Scan code: 24
+2025-01-13 14:36:49 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: o, Scan code: 24
+2025-01-13 14:36:49 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:36:49 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:36:49 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: n, Scan code: 49
+2025-01-13 14:36:49 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: o, Scan code: 24
+2025-01-13 14:36:49 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:36:49 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: n, Scan code: 49
+2025-01-13 14:36:49 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:36:49 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: n, Scan code: 49
+2025-01-13 14:36:49 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: n, Scan code: 49
+2025-01-13 14:36:50 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: g, Scan code: 34
+2025-01-13 14:36:50 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: u, Scan code: 22
+2025-01-13 14:36:50 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: u, Scan code: 22
+2025-01-13 14:36:50 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: g, Scan code: 34
+2025-01-13 14:36:50 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: w, Scan code: 17
+2025-01-13 14:36:50 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:36:50 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:36:50 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: w, Scan code: 17
+2025-01-13 14:36:50 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: x, Scan code: 45
+2025-01-13 14:36:50 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:36:50 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:36:50 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:36:50 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:36:50 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: k, Scan code: 37
+2025-01-13 14:36:50 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: x, Scan code: 45
+2025-01-13 14:36:50 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: k, Scan code: 37
+2025-01-13 14:36:50 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: h, Scan code: 35
+2025-01-13 14:36:50 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: h, Scan code: 35
+2025-01-13 14:36:50 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: o, Scan code: 24
+2025-01-13 14:36:50 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: s, Scan code: 31
+2025-01-13 14:36:50 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:36:50 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:36:50 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:36:50 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: o, Scan code: 24
+2025-01-13 14:36:50 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:36:50 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: s, Scan code: 31
+2025-01-13 14:36:50 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: n, Scan code: 49
+2025-01-13 14:36:51 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: n, Scan code: 49
+2025-01-13 14:36:51 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: h, Scan code: 35
+2025-01-13 14:36:51 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: a, Scan code: 30
+2025-01-13 14:36:51 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: h, Scan code: 35
+2025-01-13 14:36:51 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: w, Scan code: 17
+2025-01-13 14:36:51 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:36:51 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:36:51 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: f, Scan code: 33
+2025-01-13 14:36:51 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:36:51 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:36:51 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: a, Scan code: 30
+2025-01-13 14:36:51 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: w, Scan code: 17
+2025-01-13 14:36:51 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: f, Scan code: 33
+2025-01-13 14:36:51 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: n, Scan code: 49
+2025-01-13 14:36:51 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: n, Scan code: 49
+2025-01-13 14:36:51 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: g, Scan code: 34
+2025-01-13 14:36:51 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: g, Scan code: 34
+2025-01-13 14:36:52 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: ,, Scan code: 51
+2025-01-13 14:36:52 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: ,, Scan code: 51
+2025-01-13 14:36:52 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:36:52 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: v, Scan code: 47
+2025-01-13 14:36:52 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:36:52 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: a, Scan code: 30
+2025-01-13 14:36:52 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: v, Scan code: 47
+2025-01-13 14:36:52 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: f, Scan code: 33
+2025-01-13 14:36:52 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:36:52 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:36:52 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: a, Scan code: 30
+2025-01-13 14:36:52 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:36:52 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: f, Scan code: 33
+2025-01-13 14:36:52 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:36:52 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: t, Scan code: 20
+2025-01-13 14:36:52 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: e, Scan code: 18
+2025-01-13 14:36:52 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: i, Scan code: 23
+2025-01-13 14:36:52 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: t, Scan code: 20
+2025-01-13 14:36:52 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: i, Scan code: 23
+2025-01-13 14:36:52 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: e, Scan code: 18
+2025-01-13 14:36:52 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: e, Scan code: 18
+2025-01-13 14:36:52 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: n, Scan code: 49
+2025-01-13 14:36:52 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: s, Scan code: 31
+2025-01-13 14:36:52 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: n, Scan code: 49
+2025-01-13 14:36:53 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: e, Scan code: 18
+2025-01-13 14:36:53 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: g, Scan code: 34
+2025-01-13 14:36:53 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: s, Scan code: 31
+2025-01-13 14:36:53 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: g, Scan code: 34
+2025-01-13 14:36:53 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:36:53 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:36:53 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:36:53 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:36:53 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:36:54 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:36:54 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:36:54 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:36:54 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:36:54 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:36:54 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:36:54 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:36:54 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: i, Scan code: 23
+2025-01-13 14:36:54 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: e, Scan code: 18
+2025-01-13 14:36:54 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: i, Scan code: 23
+2025-01-13 14:36:54 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: e, Scan code: 18
+2025-01-13 14:36:54 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: e, Scan code: 18
+2025-01-13 14:36:54 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:36:54 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:36:54 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: n, Scan code: 49
+2025-01-13 14:36:54 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: s, Scan code: 31
+2025-01-13 14:36:54 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:36:54 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:36:54 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:36:54 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:36:54 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: g, Scan code: 34
+2025-01-13 14:36:54 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: e, Scan code: 18
+2025-01-13 14:36:54 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: n, Scan code: 49
+2025-01-13 14:36:54 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: s, Scan code: 31
+2025-01-13 14:36:54 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:36:55 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: g, Scan code: 34
+2025-01-13 14:36:55 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:36:55 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: p, Scan code: 25
+2025-01-13 14:36:55 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: h, Scan code: 35
+2025-01-13 14:36:55 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: p, Scan code: 25
+2025-01-13 14:36:55 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: h, Scan code: 35
+2025-01-13 14:36:55 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: a, Scan code: 30
+2025-01-13 14:36:55 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: s, Scan code: 31
+2025-01-13 14:36:55 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:36:55 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:36:55 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: a, Scan code: 30
+2025-01-13 14:36:55 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: p, Scan code: 25
+2025-01-13 14:36:55 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:36:55 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: s, Scan code: 31
+2025-01-13 14:36:55 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: p, Scan code: 25
+2025-01-13 14:36:55 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:36:55 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: shift, Scan code: 42
+2025-01-13 14:36:55 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: (, Scan code: 10
+2025-01-13 14:36:55 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: (, Scan code: 10
+2025-01-13 14:36:55 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: shift, Scan code: 42
+2025-01-13 14:36:56 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:36:56 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:36:56 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:36:56 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:36:56 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:36:56 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:36:56 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:36:56 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:36:56 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: f, Scan code: 33
+2025-01-13 14:36:56 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: f, Scan code: 33
+2025-01-13 14:36:56 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: r, Scan code: 19
+2025-01-13 14:36:56 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: r, Scan code: 19
+2025-01-13 14:36:56 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: e, Scan code: 18
+2025-01-13 14:36:56 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: e, Scan code: 18
+2025-01-13 14:36:56 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: n, Scan code: 49
+2025-01-13 14:36:56 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: n, Scan code: 49
+2025-01-13 14:36:56 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: c, Scan code: 46
+2025-01-13 14:36:57 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: h, Scan code: 35
+2025-01-13 14:36:57 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: c, Scan code: 46
+2025-01-13 14:36:57 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: h, Scan code: 35
+2025-01-13 14:36:57 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: shift, Scan code: 42
+2025-01-13 14:36:57 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: ), Scan code: 11
+2025-01-13 14:36:57 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: ), Scan code: 11
+2025-01-13 14:36:57 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: shift, Scan code: 42
+2025-01-13 14:36:57 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:36:57 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:36:57 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:36:57 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:36:57 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:36:58 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:36:58 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:36:58 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:36:58 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:36:58 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:36:58 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: c, Scan code: 46
+2025-01-13 14:36:58 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: u, Scan code: 22
+2025-01-13 14:36:58 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: u, Scan code: 22
+2025-01-13 14:36:58 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: x, Scan code: 45
+2025-01-13 14:36:58 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:36:58 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:36:58 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: c, Scan code: 46
+2025-01-13 14:36:58 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: n, Scan code: 49
+2025-01-13 14:36:58 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: x, Scan code: 45
+2025-01-13 14:36:58 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: n, Scan code: 49
+2025-01-13 14:36:58 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: g, Scan code: 34
+2025-01-13 14:36:58 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:36:58 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: g, Scan code: 34
+2025-01-13 14:36:58 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:36:58 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: l, Scan code: 38
+2025-01-13 14:36:58 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: a, Scan code: 30
+2025-01-13 14:36:58 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: f, Scan code: 33
+2025-01-13 14:36:58 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:36:58 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:36:58 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: l, Scan code: 38
+2025-01-13 14:36:58 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: a, Scan code: 30
+2025-01-13 14:36:58 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: f, Scan code: 33
+2025-01-13 14:36:58 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:36:58 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:36:59 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: 1, Scan code: 2
+2025-01-13 14:36:59 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:36:59 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: 1, Scan code: 2
+2025-01-13 14:36:59 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:36:59 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: n, Scan code: 49
+2025-01-13 14:36:59 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: n, Scan code: 49
+2025-01-13 14:36:59 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: g, Scan code: 34
+2025-01-13 14:36:59 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: o, Scan code: 24
+2025-01-13 14:36:59 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: g, Scan code: 34
+2025-01-13 14:36:59 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: o, Scan code: 24
+2025-01-13 14:36:59 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: o, Scan code: 24
+2025-01-13 14:36:59 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:36:59 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:36:59 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: n, Scan code: 49
+2025-01-13 14:36:59 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: o, Scan code: 24
+2025-01-13 14:36:59 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:36:59 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: n, Scan code: 49
+2025-01-13 14:36:59 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:36:59 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: n, Scan code: 49
+2025-01-13 14:36:59 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: n, Scan code: 49
+2025-01-13 14:36:59 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: g, Scan code: 34
+2025-01-13 14:36:59 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: u, Scan code: 22
+2025-01-13 14:36:59 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: g, Scan code: 34
+2025-01-13 14:36:59 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: w, Scan code: 17
+2025-01-13 14:36:59 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:36:59 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:36:59 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: u, Scan code: 22
+2025-01-13 14:36:59 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: w, Scan code: 17
+2025-01-13 14:37:00 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: x, Scan code: 45
+2025-01-13 14:37:00 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:37:00 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:37:00 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:37:00 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:37:00 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: x, Scan code: 45
+2025-01-13 14:37:00 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: k, Scan code: 37
+2025-01-13 14:37:00 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: k, Scan code: 37
+2025-01-13 14:37:00 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: h, Scan code: 35
+2025-01-13 14:37:00 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: h, Scan code: 35
+2025-01-13 14:37:00 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: o, Scan code: 24
+2025-01-13 14:37:00 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: s, Scan code: 31
+2025-01-13 14:37:00 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:37:00 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:37:00 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: o, Scan code: 24
+2025-01-13 14:37:00 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:37:00 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: s, Scan code: 31
+2025-01-13 14:37:00 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:37:00 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: v, Scan code: 47
+2025-01-13 14:37:00 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: o, Scan code: 24
+2025-01-13 14:37:00 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: w, Scan code: 17
+2025-01-13 14:37:00 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:37:00 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:37:00 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: o, Scan code: 24
+2025-01-13 14:37:00 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: v, Scan code: 47
+2025-01-13 14:37:00 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: w, Scan code: 17
+2025-01-13 14:37:00 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: i, Scan code: 23
+2025-01-13 14:37:01 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: s, Scan code: 31
+2025-01-13 14:37:01 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:37:01 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:37:01 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:37:01 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:37:01 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:37:01 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: i, Scan code: 23
+2025-01-13 14:37:01 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: s, Scan code: 31
+2025-01-13 14:37:01 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:37:01 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: t, Scan code: 20
+2025-01-13 14:37:01 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: o, Scan code: 24
+2025-01-13 14:37:01 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: t, Scan code: 20
+2025-01-13 14:37:01 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: o, Scan code: 24
+2025-01-13 14:37:01 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: o, Scan code: 24
+2025-01-13 14:37:01 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:37:01 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:37:01 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: o, Scan code: 24
+2025-01-13 14:37:01 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:37:01 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:37:01 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: shift, Scan code: 42
+2025-01-13 14:37:01 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:37:01 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:37:01 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:37:02 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:37:02 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:37:02 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: shift, Scan code: 42
+2025-01-13 14:37:02 - EVKeyboardSwitcher - DEBUG - Block phím shift do đang xử lý Right Shift
+2025-01-13 14:37:02 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:37:02 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:37:02 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:37:03 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:37:03 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:37:03 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:37:03 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:37:03 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:37:03 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:37:03 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:37:04 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:37:04 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:37:04 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:37:04 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:37:04 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:37:04 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:37:04 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:37:04 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:37:04 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:37:04 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:37:05 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:37:05 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:37:05 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:37:05 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:37:05 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:37:05 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:37:05 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:37:05 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:37:05 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:37:05 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:37:05 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:37:05 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:37:06 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:37:06 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:37:06 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:37:06 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:37:06 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:37:06 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:37:06 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:37:06 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:37:06 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:37:06 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:37:06 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:37:06 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:37:06 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:37:06 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:37:06 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:37:06 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:37:06 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:37:06 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:37:06 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:37:06 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:37:07 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:37:07 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:37:07 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:37:07 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:37:07 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:37:07 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:37:07 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:37:07 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:37:07 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:37:07 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:37:07 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:37:07 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:37:07 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:37:07 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:37:08 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:37:08 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:37:08 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:37:08 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:37:08 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:37:08 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:37:08 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:37:08 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:37:08 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:37:08 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:37:08 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:37:09 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:37:09 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:37:09 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:37:09 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:37:09 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:37:09 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:37:09 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:37:09 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:37:09 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:37:09 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:37:09 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:37:09 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:37:09 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:37:09 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:37:09 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:37:09 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:37:09 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:37:09 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:37:09 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:37:09 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:37:09 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:37:09 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:37:10 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:37:10 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:37:10 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:37:10 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:37:10 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:37:10 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:37:10 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:37:10 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:37:10 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:37:10 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:37:10 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:37:10 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:37:10 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:37:10 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:37:10 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:37:10 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:37:10 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:37:10 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:37:10 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:37:10 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:37:10 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:37:10 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:37:10 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:37:10 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:37:11 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:37:11 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:37:11 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:37:11 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:37:11 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:37:11 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:37:11 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:37:11 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:37:11 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:37:11 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:37:12 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:37:12 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:37:12 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:37:12 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:37:12 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:37:12 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:37:12 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:37:12 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:37:12 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:37:12 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:37:12 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:37:12 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:37:12 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:37:12 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:37:13 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:37:13 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:37:13 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:37:13 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:37:13 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:37:13 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:37:14 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:37:14 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:37:14 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:37:14 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:37:14 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:37:14 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:37:14 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:37:14 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:37:14 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:37:14 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:37:14 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:37:14 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:37:14 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:37:14 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:37:14 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:37:14 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:37:14 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:37:14 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:37:14 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:37:14 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:37:14 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:37:14 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:37:14 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:37:14 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:37:15 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:37:15 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:37:15 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:37:15 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:37:15 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:37:15 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:37:15 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:37:16 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:37:16 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:37:16 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:37:16 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:37:16 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:37:16 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:37:16 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:37:16 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:37:16 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:37:16 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:37:16 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:37:16 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:37:16 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:37:16 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:37:16 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:37:16 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:37:16 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:37:16 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:37:16 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:37:16 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:37:16 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:37:16 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:37:17 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:37:17 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:37:17 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:37:17 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:37:17 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:37:17 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:37:17 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:37:17 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:37:17 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:37:17 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:37:17 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:37:17 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:37:17 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:37:17 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:37:18 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:37:18 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:37:18 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:37:18 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:37:18 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:37:18 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:37:18 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:37:18 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:37:18 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:37:18 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:37:18 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:37:18 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:37:18 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:37:18 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:37:18 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:37:18 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:37:18 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:37:18 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:37:20 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: ctrl, Scan code: 29
+2025-01-13 14:37:20 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: a, Scan code: 30
+2025-01-13 14:37:20 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: ctrl, Scan code: 29
+2025-01-13 14:37:21 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: a, Scan code: 30
+2025-01-13 14:37:21 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: delete, Scan code: 83
+2025-01-13 14:37:21 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: delete, Scan code: 83
+2025-01-13 14:37:22 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: ctrl, Scan code: 29
+2025-01-13 14:37:22 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: ctrl, Scan code: 29
+2025-01-13 14:37:22 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: ctrl, Scan code: 29
+2025-01-13 14:37:22 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: ctrl, Scan code: 29
+2025-01-13 14:37:22 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: ctrl, Scan code: 29
+2025-01-13 14:37:22 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: ctrl, Scan code: 29
+2025-01-13 14:37:22 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: ctrl, Scan code: 29
+2025-01-13 14:37:22 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: ctrl, Scan code: 29
+2025-01-13 14:37:22 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: ctrl, Scan code: 29
+2025-01-13 14:37:22 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: ctrl, Scan code: 29
+2025-01-13 14:37:22 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: ctrl, Scan code: 29
+2025-01-13 14:37:22 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: ctrl, Scan code: 29
+2025-01-13 14:37:23 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: `, Scan code: 41
+2025-01-13 14:37:23 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: `, Scan code: 41
+2025-01-13 14:37:23 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: `, Scan code: 41
+2025-01-13 14:37:23 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: `, Scan code: 41
+2025-01-13 14:37:23 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: ctrl, Scan code: 29
+2025-01-13 14:37:57 - EVKeyboardSwitcher - DEBUG - Logger được khởi tạo ở chế độ DEBUG
+2025-01-13 14:37:57 - EVKeyboardSwitcher - INFO - Khởi động chương trình...
+2025-01-13 14:37:57 - EVKeyboardSwitcher - DEBUG - DEBUG mode: True
+2025-01-13 14:37:57 - EVKeyboardSwitcher - DEBUG - Thư mục gốc: F:\Dropbox\dev\python\python-unikey-switcher
+2025-01-13 14:37:57 - EVKeyboardSwitcher - DEBUG - Chuyển đến thư mục gốc: F:\Dropbox\dev\python\python-unikey-switcher
+2025-01-13 14:37:57 - EVKeyboardSwitcher - DEBUG - File cây thư mục: .files-dir-tree.md
+2025-01-13 14:37:57 - EVKeyboardSwitcher - DEBUG - Bắt đầu tạo nội dung cây thư mục
+2025-01-13 14:37:57 - EVKeyboardSwitcher - DEBUG - Bắt đầu tạo cây thư mục từ: .
+2025-01-13 14:37:57 - EVKeyboardSwitcher - DEBUG - Đường dẫn tuyệt đối: F:\Dropbox\dev\python\python-unikey-switcher
+2025-01-13 14:37:57 - EVKeyboardSwitcher - DEBUG - Đã tìm thấy 30 mục
+2025-01-13 14:37:57 - EVKeyboardSwitcher - DEBUG - Ghi nội dung vào file: F:\Dropbox\dev\python\python-unikey-switcher\.files-dir-tree.md
+2025-01-13 14:37:57 - EVKeyboardSwitcher - INFO - Đã cập nhật file cấu trúc thư mục: F:\Dropbox\dev\python\python-unikey-switcher\.files-dir-tree.md
+2025-01-13 14:37:57 - EVKeyboardSwitcher - INFO - Đã thiết lập keyboard handler thành công
+2025-01-13 14:37:57 - EVKeyboardSwitcher - INFO - Đã tạo system tray icon thành công
+2025-01-13 14:38:00 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: h, Scan code: 35
+2025-01-13 14:38:00 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: i, Scan code: 23
+2025-01-13 14:38:00 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: h, Scan code: 35
+2025-01-13 14:38:00 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: i, Scan code: 23
+2025-01-13 14:38:01 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:38:01 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:38:01 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:38:02 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:38:02 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:38:02 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:38:02 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:38:02 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:38:02 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:38:02 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:38:02 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:38:02 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:38:02 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:38:02 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:38:02 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:38:02 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:38:02 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:38:02 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:38:02 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:38:02 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:38:02 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:38:02 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:38:02 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:38:02 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:38:02 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:38:02 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:38:02 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:38:03 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:38:03 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:38:03 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:38:03 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:38:03 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:38:03 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:38:03 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:38:03 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:38:03 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:38:03 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:38:03 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:38:03 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:38:03 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:38:03 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:38:03 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:38:03 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:38:03 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:38:03 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:38:03 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:38:03 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:38:03 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:38:03 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:38:03 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:38:03 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:38:03 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:38:04 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:38:04 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:38:04 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:38:04 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:38:04 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:38:04 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:38:04 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:38:04 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:38:04 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:38:04 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:38:04 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:38:04 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:38:04 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:38:04 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:38:04 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:38:04 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:38:04 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:38:04 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:38:04 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:38:04 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:38:04 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:38:04 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:38:04 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:38:04 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:38:04 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:38:04 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:38:05 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:38:05 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:38:05 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:38:05 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:38:05 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:38:05 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:38:05 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:38:05 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:38:05 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:38:05 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:38:05 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:38:05 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:38:05 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:38:05 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:38:05 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:38:05 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:38:05 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:38:05 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:38:05 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:38:05 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:38:05 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:38:05 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:38:05 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:38:06 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:38:06 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:38:06 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:38:06 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:38:06 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:39:38 - EVKeyboardSwitcher - DEBUG - Logger được khởi tạo ở chế độ DEBUG
+2025-01-13 14:39:38 - EVKeyboardSwitcher - INFO - Khởi động chương trình...
+2025-01-13 14:39:38 - EVKeyboardSwitcher - DEBUG - DEBUG mode: True
+2025-01-13 14:39:38 - EVKeyboardSwitcher - DEBUG - Thư mục gốc: F:\Dropbox\dev\python\python-unikey-switcher
+2025-01-13 14:39:38 - EVKeyboardSwitcher - DEBUG - Chuyển đến thư mục gốc: F:\Dropbox\dev\python\python-unikey-switcher
+2025-01-13 14:39:38 - EVKeyboardSwitcher - DEBUG - File cây thư mục: .files-dir-tree.md
+2025-01-13 14:39:38 - EVKeyboardSwitcher - DEBUG - Bắt đầu tạo nội dung cây thư mục
+2025-01-13 14:39:38 - EVKeyboardSwitcher - DEBUG - Bắt đầu tạo cây thư mục từ: .
+2025-01-13 14:39:38 - EVKeyboardSwitcher - DEBUG - Đường dẫn tuyệt đối: F:\Dropbox\dev\python\python-unikey-switcher
+2025-01-13 14:39:38 - EVKeyboardSwitcher - DEBUG - Đã tìm thấy 30 mục
+2025-01-13 14:39:38 - EVKeyboardSwitcher - DEBUG - Ghi nội dung vào file: F:\Dropbox\dev\python\python-unikey-switcher\.files-dir-tree.md
+2025-01-13 14:39:38 - EVKeyboardSwitcher - INFO - Đã cập nhật file cấu trúc thư mục: F:\Dropbox\dev\python\python-unikey-switcher\.files-dir-tree.md
+2025-01-13 14:39:38 - EVKeyboardSwitcher - INFO - Đã thiết lập keyboard handler thành công
+2025-01-13 14:39:38 - EVKeyboardSwitcher - INFO - Đã tạo system tray icon thành công
+2025-01-13 14:39:45 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:39:45 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:39:45 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:39:45 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:39:45 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:39:45 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:39:45 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:39:45 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:39:45 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:39:45 - EVKeyboardSwitcher - DEBUG - Block do chưa hết thời gian chờ
+2025-01-13 14:39:45 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:39:45 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:39:45 - EVKeyboardSwitcher - DEBUG - Block do chưa hết thời gian chờ
+2025-01-13 14:39:45 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:39:46 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:39:46 - EVKeyboardSwitcher - DEBUG - Block do chưa hết thời gian chờ
+2025-01-13 14:39:46 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:39:46 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:39:46 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:39:46 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:39:46 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:39:46 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:39:46 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:39:46 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:39:46 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:39:46 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:39:46 - EVKeyboardSwitcher - DEBUG - Block do chưa hết thời gian chờ
+2025-01-13 14:39:46 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:39:46 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:39:46 - EVKeyboardSwitcher - DEBUG - Block do chưa hết thời gian chờ
+2025-01-13 14:39:46 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:39:46 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:39:46 - EVKeyboardSwitcher - DEBUG - Block do chưa hết thời gian chờ
+2025-01-13 14:39:46 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:39:46 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:39:46 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:39:46 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:39:46 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:39:46 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:39:46 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:39:46 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:39:46 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:39:47 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:39:47 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:39:47 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:39:47 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:39:47 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:39:47 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:39:47 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:39:47 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:39:47 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:39:47 - EVKeyboardSwitcher - DEBUG - Block do chưa hết thời gian chờ
+2025-01-13 14:39:47 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:39:47 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:39:47 - EVKeyboardSwitcher - DEBUG - Block do chưa hết thời gian chờ
+2025-01-13 14:39:47 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:39:48 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:39:48 - EVKeyboardSwitcher - DEBUG - Block do chưa hết thời gian chờ
+2025-01-13 14:39:48 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:39:48 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:39:48 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:39:48 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:39:48 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:39:48 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:39:48 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:39:48 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:39:48 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:39:49 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:39:49 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:39:49 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:39:49 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:39:49 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:39:49 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:39:49 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:39:49 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:39:49 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:39:49 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:39:49 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:39:49 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:39:50 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:39:50 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:39:50 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:39:50 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:39:50 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:39:50 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:39:50 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:39:50 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:39:50 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:39:50 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:39:50 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:39:50 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:39:50 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:39:50 - EVKeyboardSwitcher - DEBUG - Block do chưa hết thời gian chờ
+2025-01-13 14:39:50 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:39:50 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:39:50 - EVKeyboardSwitcher - DEBUG - Block do chưa hết thời gian chờ
+2025-01-13 14:39:50 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:39:50 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:39:50 - EVKeyboardSwitcher - DEBUG - Block do chưa hết thời gian chờ
+2025-01-13 14:39:50 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:39:51 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:39:51 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:39:51 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:39:51 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:39:51 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:39:52 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:39:52 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:39:52 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:39:52 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:39:53 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:39:53 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:39:53 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:39:53 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:39:53 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:39:53 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:39:53 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:39:53 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:39:54 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:39:54 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:39:54 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:39:54 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:39:54 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:39:54 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:39:54 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:39:54 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:39:54 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:39:54 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:39:54 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:39:54 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:39:55 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:39:55 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:39:55 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:39:55 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:39:55 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:39:55 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:39:55 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:39:55 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:39:55 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:39:55 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:39:55 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:39:55 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:39:55 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:39:55 - EVKeyboardSwitcher - DEBUG - Block do chưa hết thời gian chờ
+2025-01-13 14:39:56 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:39:57 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:39:57 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:39:57 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:39:57 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:39:57 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:39:57 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:39:57 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:39:57 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:39:57 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:39:57 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:39:57 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:39:57 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:39:57 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:39:57 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:39:57 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:39:57 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:39:58 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:39:58 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:39:58 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:39:58 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:39:58 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:39:58 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:39:58 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:39:58 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:40:00 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: l, Scan code: 38
+2025-01-13 14:40:00 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: l, Scan code: 38
+2025-01-13 14:40:00 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: a, Scan code: 30
+2025-01-13 14:40:00 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: a, Scan code: 30
+2025-01-13 14:40:00 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: a, Scan code: 30
+2025-01-13 14:40:00 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:40:00 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:40:00 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: m, Scan code: 50
+2025-01-13 14:40:00 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:40:00 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: m, Scan code: 50
+2025-01-13 14:40:00 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: a, Scan code: 30
+2025-01-13 14:40:00 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:40:00 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: t, Scan code: 20
+2025-01-13 14:40:00 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: h, Scan code: 35
+2025-01-13 14:40:00 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: t, Scan code: 20
+2025-01-13 14:40:00 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: h, Scan code: 35
+2025-01-13 14:40:00 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: a, Scan code: 30
+2025-01-13 14:40:00 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: n, Scan code: 49
+2025-01-13 14:40:01 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: a, Scan code: 30
+2025-01-13 14:40:01 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: n, Scan code: 49
+2025-01-13 14:40:01 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: h, Scan code: 35
+2025-01-13 14:40:01 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:40:01 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: h, Scan code: 35
+2025-01-13 14:40:01 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: p, Scan code: 25
+2025-01-13 14:40:01 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:40:01 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: h, Scan code: 35
+2025-01-13 14:40:01 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: p, Scan code: 25
+2025-01-13 14:40:01 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: h, Scan code: 35
+2025-01-13 14:40:01 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: o, Scan code: 24
+2025-01-13 14:40:01 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: n, Scan code: 49
+2025-01-13 14:40:01 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: o, Scan code: 24
+2025-01-13 14:40:01 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: n, Scan code: 49
+2025-01-13 14:40:01 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: g, Scan code: 34
+2025-01-13 14:40:01 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: g, Scan code: 34
+2025-01-13 14:40:01 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:40:01 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:40:01 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:40:01 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:40:01 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:40:01 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:40:02 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:40:02 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:40:02 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:40:02 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:40:02 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: l, Scan code: 38
+2025-01-13 14:40:02 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: a, Scan code: 30
+2025-01-13 14:40:02 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: l, Scan code: 38
+2025-01-13 14:40:02 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: a, Scan code: 30
+2025-01-13 14:40:03 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: a, Scan code: 30
+2025-01-13 14:40:03 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: m, Scan code: 50
+2025-01-13 14:40:03 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:40:03 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: a, Scan code: 30
+2025-01-13 14:40:03 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: m, Scan code: 50
+2025-01-13 14:40:03 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:40:03 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: t, Scan code: 20
+2025-01-13 14:40:03 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: h, Scan code: 35
+2025-01-13 14:40:03 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: t, Scan code: 20
+2025-01-13 14:40:03 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: h, Scan code: 35
+2025-01-13 14:40:03 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: a, Scan code: 30
+2025-01-13 14:40:03 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: n, Scan code: 49
+2025-01-13 14:40:03 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: a, Scan code: 30
+2025-01-13 14:40:03 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: n, Scan code: 49
+2025-01-13 14:40:03 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: h, Scan code: 35
+2025-01-13 14:40:03 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:40:03 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: h, Scan code: 35
+2025-01-13 14:40:03 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: p, Scan code: 25
+2025-01-13 14:40:03 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:40:03 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: h, Scan code: 35
+2025-01-13 14:40:03 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: p, Scan code: 25
+2025-01-13 14:40:03 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: h, Scan code: 35
+2025-01-13 14:40:03 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: o, Scan code: 24
+2025-01-13 14:40:04 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: n, Scan code: 49
+2025-01-13 14:40:04 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: o, Scan code: 24
+2025-01-13 14:40:04 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: n, Scan code: 49
+2025-01-13 14:40:04 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: g, Scan code: 34
+2025-01-13 14:40:04 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: g, Scan code: 34
+2025-01-13 14:40:04 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:40:04 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:40:04 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:40:04 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:40:04 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:40:04 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:40:04 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:40:04 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:40:04 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:40:04 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:40:05 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: v, Scan code: 47
+2025-01-13 14:40:05 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: a, Scan code: 30
+2025-01-13 14:40:05 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: v, Scan code: 47
+2025-01-13 14:40:05 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: f, Scan code: 33
+2025-01-13 14:40:05 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:40:05 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:40:05 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: a, Scan code: 30
+2025-01-13 14:40:05 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: f, Scan code: 33
+2025-01-13 14:40:05 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:40:05 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:40:05 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: k, Scan code: 37
+2025-01-13 14:40:05 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: k, Scan code: 37
+2025-01-13 14:40:05 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: h, Scan code: 35
+2025-01-13 14:40:05 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: h, Scan code: 35
+2025-01-13 14:40:05 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: o, Scan code: 24
+2025-01-13 14:40:05 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: o, Scan code: 24
+2025-01-13 14:40:05 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: o, Scan code: 24
+2025-01-13 14:40:05 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:40:05 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:40:05 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: o, Scan code: 24
+2025-01-13 14:40:05 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: n, Scan code: 49
+2025-01-13 14:40:06 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: g, Scan code: 34
+2025-01-13 14:40:06 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: n, Scan code: 49
+2025-01-13 14:40:06 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:40:06 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: p, Scan code: 25
+2025-01-13 14:40:06 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: g, Scan code: 34
+2025-01-13 14:40:06 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:40:06 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: h, Scan code: 35
+2025-01-13 14:40:06 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: p, Scan code: 25
+2025-01-13 14:40:06 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: a, Scan code: 30
+2025-01-13 14:40:06 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: h, Scan code: 35
+2025-01-13 14:40:06 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: r, Scan code: 19
+2025-01-13 14:40:06 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:40:06 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:40:06 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: i, Scan code: 23
+2025-01-13 14:40:06 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: a, Scan code: 30
+2025-01-13 14:40:06 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:40:06 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: i, Scan code: 23
+2025-01-13 14:40:06 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: r, Scan code: 19
+2025-01-13 14:40:06 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:40:06 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:40:06 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:40:06 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:40:06 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:40:06 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:40:06 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:40:06 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:40:06 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:40:07 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: l, Scan code: 38
+2025-01-13 14:40:07 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: l, Scan code: 38
+2025-01-13 14:40:07 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: a, Scan code: 30
+2025-01-13 14:40:07 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: m, Scan code: 50
+2025-01-13 14:40:07 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: a, Scan code: 30
+2025-01-13 14:40:07 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:40:07 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: m, Scan code: 50
+2025-01-13 14:40:07 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:40:07 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: t, Scan code: 20
+2025-01-13 14:40:07 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: h, Scan code: 35
+2025-01-13 14:40:07 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: t, Scan code: 20
+2025-01-13 14:40:07 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: h, Scan code: 35
+2025-01-13 14:40:07 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: a, Scan code: 30
+2025-01-13 14:40:07 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: n, Scan code: 49
+2025-01-13 14:40:07 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: a, Scan code: 30
+2025-01-13 14:40:07 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: n, Scan code: 49
+2025-01-13 14:40:07 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: h, Scan code: 35
+2025-01-13 14:40:07 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:40:07 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: h, Scan code: 35
+2025-01-13 14:40:07 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:40:08 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: f, Scan code: 33
+2025-01-13 14:40:08 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: f, Scan code: 33
+2025-01-13 14:40:08 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: o, Scan code: 24
+2025-01-13 14:40:08 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: o, Scan code: 24
+2025-01-13 14:40:08 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: n, Scan code: 49
+2025-01-13 14:40:08 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: n, Scan code: 49
+2025-01-13 14:40:08 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: g, Scan code: 34
+2025-01-13 14:40:08 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: g, Scan code: 34
+2025-01-13 14:40:08 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:40:08 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:40:08 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:40:08 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:40:08 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:40:09 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:40:09 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:40:09 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:40:09 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:40:09 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:40:09 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:40:09 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:40:10 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:40:10 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:40:10 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:40:10 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:40:10 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:40:10 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:40:10 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:40:10 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:40:11 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: l, Scan code: 38
+2025-01-13 14:40:11 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: l, Scan code: 38
+2025-01-13 14:40:11 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: a, Scan code: 30
+2025-01-13 14:40:11 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: a, Scan code: 30
+2025-01-13 14:40:11 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: a, Scan code: 30
+2025-01-13 14:40:11 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: m, Scan code: 50
+2025-01-13 14:40:11 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:40:11 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: a, Scan code: 30
+2025-01-13 14:40:11 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: m, Scan code: 50
+2025-01-13 14:40:11 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:40:11 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: t, Scan code: 20
+2025-01-13 14:40:11 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: h, Scan code: 35
+2025-01-13 14:40:11 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: t, Scan code: 20
+2025-01-13 14:40:11 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: h, Scan code: 35
+2025-01-13 14:40:12 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: a, Scan code: 30
+2025-01-13 14:40:12 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: n, Scan code: 49
+2025-01-13 14:40:12 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: a, Scan code: 30
+2025-01-13 14:40:12 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: n, Scan code: 49
+2025-01-13 14:40:12 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: h, Scan code: 35
+2025-01-13 14:40:12 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:40:12 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: h, Scan code: 35
+2025-01-13 14:40:12 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:40:12 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: p, Scan code: 25
+2025-01-13 14:40:12 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: p, Scan code: 25
+2025-01-13 14:40:12 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: h, Scan code: 35
+2025-01-13 14:40:12 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: h, Scan code: 35
+2025-01-13 14:40:12 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: o, Scan code: 24
+2025-01-13 14:40:12 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: o, Scan code: 24
+2025-01-13 14:40:12 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: g, Scan code: 34
+2025-01-13 14:40:12 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: n, Scan code: 49
+2025-01-13 14:40:12 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: n, Scan code: 49
+2025-01-13 14:40:12 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: g, Scan code: 34
+2025-01-13 14:40:12 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:40:12 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:40:12 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:40:12 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:40:12 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:40:13 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:40:13 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:40:13 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:40:13 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:40:13 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:40:13 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:40:13 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:40:13 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:40:14 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:40:14 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:40:14 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:40:14 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:40:14 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:40:14 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:40:14 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:40:14 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:40:14 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:40:14 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:40:14 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:40:14 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:40:14 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:40:14 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:40:14 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:40:14 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:40:15 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:40:15 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:40:15 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:40:15 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:40:15 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:40:15 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:40:15 - EVKeyboardSwitcher - DEBUG - Block do chưa hết thời gian chờ
+2025-01-13 14:40:15 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:40:15 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:40:15 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:40:15 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:40:16 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:40:16 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:40:16 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:40:16 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:40:16 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:40:16 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:40:18 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:40:18 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:40:18 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:40:18 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:40:18 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:40:18 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:40:18 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:40:18 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:40:18 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:40:18 - EVKeyboardSwitcher - DEBUG - Block do chưa hết thời gian chờ
+2025-01-13 14:40:18 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:40:19 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:40:19 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:40:19 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:40:19 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:40:19 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:40:19 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:40:19 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:40:19 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:40:19 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:40:19 - EVKeyboardSwitcher - DEBUG - Block do chưa hết thời gian chờ
+2025-01-13 14:40:19 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:40:19 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:40:19 - EVKeyboardSwitcher - DEBUG - Block do chưa hết thời gian chờ
+2025-01-13 14:40:19 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:40:19 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:40:19 - EVKeyboardSwitcher - DEBUG - Block do chưa hết thời gian chờ
+2025-01-13 14:40:19 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:40:19 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:40:19 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:40:19 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:40:19 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:40:19 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:40:19 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:40:19 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:40:19 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:40:19 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:40:19 - EVKeyboardSwitcher - DEBUG - Block do chưa hết thời gian chờ
+2025-01-13 14:40:19 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:40:20 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:40:20 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:40:20 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:40:20 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:40:20 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:40:20 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:40:20 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:40:20 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:40:21 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:40:21 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:40:21 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:40:21 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:40:21 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:40:21 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:40:21 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:40:21 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:40:21 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:40:21 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:40:21 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:40:21 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:40:21 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:40:21 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:40:21 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:40:21 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:40:22 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:40:22 - EVKeyboardSwitcher - DEBUG - Block do chưa hết thời gian chờ
+2025-01-13 14:40:22 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:40:23 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:40:23 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:40:23 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:40:23 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:40:23 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:40:23 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:40:23 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:40:23 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:40:23 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:40:23 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:40:23 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:40:23 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:40:23 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:40:23 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:40:24 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:40:24 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:40:24 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:40:24 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:40:24 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:40:24 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:40:24 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:40:24 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:40:25 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:40:25 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:40:25 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:40:25 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:40:25 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:40:25 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:40:25 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:40:25 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:40:25 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:40:25 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:40:26 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:40:26 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:40:26 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:40:26 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:40:26 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:40:26 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:40:26 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:40:26 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:40:26 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:40:26 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:40:26 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:40:26 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:40:26 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:40:26 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:40:27 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:40:27 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:40:27 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:40:27 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:40:27 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:40:27 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:40:27 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:40:27 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:40:27 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:40:27 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:40:28 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:40:28 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:40:28 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:40:28 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:40:28 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:40:28 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:40:28 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:40:28 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:40:32 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:40:32 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:40:32 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:40:32 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:40:32 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:40:32 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:40:32 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:40:32 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:40:33 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: ctrl, Scan code: 29
+2025-01-13 14:40:33 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: ctrl, Scan code: 29
+2025-01-13 14:40:33 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: home, Scan code: 71
+2025-01-13 14:40:33 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: home, Scan code: 71
+2025-01-13 14:40:34 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: scroll lock, Scan code: 70
+2025-01-13 14:40:34 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: scroll lock, Scan code: 70
+2025-01-13 14:40:34 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: ctrl, Scan code: 29
+2025-01-13 14:40:34 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: c, Scan code: 46
+2025-01-13 14:40:34 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: c, Scan code: 46
+2025-01-13 14:40:34 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: ctrl, Scan code: 29
+2025-01-13 14:40:34 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: shift, Scan code: 42
+2025-01-13 14:40:34 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: home, Scan code: 71
+2025-01-13 14:40:34 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: home, Scan code: 71
+2025-01-13 14:40:34 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: shift, Scan code: 42
+2025-01-13 14:40:34 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: ctrl, Scan code: 29
+2025-01-13 14:40:34 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: c, Scan code: 46
+2025-01-13 14:40:34 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: c, Scan code: 46
+2025-01-13 14:40:34 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: ctrl, Scan code: 29
+2025-01-13 14:40:35 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: ctrl, Scan code: 29
+2025-01-13 14:40:35 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: c, Scan code: 46
+2025-01-13 14:40:35 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: c, Scan code: 46
+2025-01-13 14:40:35 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: ctrl, Scan code: 29
+2025-01-13 14:40:35 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: ctrl, Scan code: 29
+2025-01-13 14:40:35 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: c, Scan code: 46
+2025-01-13 14:40:35 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: c, Scan code: 46
+2025-01-13 14:40:35 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: ctrl, Scan code: 29
+2025-01-13 14:40:37 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: scroll lock, Scan code: 70
+2025-01-13 14:40:37 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: ctrl, Scan code: 29
+2025-01-13 14:40:37 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: c, Scan code: 46
+2025-01-13 14:40:37 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: , Scan code: 70
+2025-01-13 14:40:37 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: c, Scan code: 46
+2025-01-13 14:40:37 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: ctrl, Scan code: 29
+2025-01-13 14:40:37 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: shift, Scan code: 42
+2025-01-13 14:40:37 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: home, Scan code: 71
+2025-01-13 14:40:37 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: home, Scan code: 71
+2025-01-13 14:40:37 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: shift, Scan code: 42
+2025-01-13 14:40:37 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: ctrl, Scan code: 29
+2025-01-13 14:40:37 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: c, Scan code: 46
+2025-01-13 14:40:37 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: c, Scan code: 46
+2025-01-13 14:40:37 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: ctrl, Scan code: 29
+2025-01-13 14:40:38 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right, Scan code: 77
+2025-01-13 14:40:38 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right, Scan code: 77
+2025-01-13 14:40:38 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: ., Scan code: 52
+2025-01-13 14:40:38 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: ., Scan code: 52
+2025-01-13 14:40:38 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: ., Scan code: 52
+2025-01-13 14:40:38 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: ., Scan code: 52
+2025-01-13 14:40:38 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: ., Scan code: 52
+2025-01-13 14:40:38 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: ., Scan code: 52
+2025-01-13 14:40:38 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: ctrl, Scan code: 29
+2025-01-13 14:40:38 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: c, Scan code: 46
+2025-01-13 14:40:38 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: c, Scan code: 46
+2025-01-13 14:40:38 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: ctrl, Scan code: 29
+2025-01-13 14:40:38 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: shift, Scan code: 42
+2025-01-13 14:40:38 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: home, Scan code: 71
+2025-01-13 14:40:38 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: home, Scan code: 71
+2025-01-13 14:40:38 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: shift, Scan code: 42
+2025-01-13 14:40:38 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: ctrl, Scan code: 29
+2025-01-13 14:40:38 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: c, Scan code: 46
+2025-01-13 14:40:38 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: c, Scan code: 46
+2025-01-13 14:40:38 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: ctrl, Scan code: 29
+2025-01-13 14:40:38 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right, Scan code: 77
+2025-01-13 14:40:38 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right, Scan code: 77
+2025-01-13 14:40:40 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:40:40 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:40:40 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:40:40 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:40:40 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:40:40 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:40:40 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: shift, Scan code: 42
+2025-01-13 14:40:40 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: home, Scan code: 71
+2025-01-13 14:40:40 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: home, Scan code: 71
+2025-01-13 14:40:40 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: shift, Scan code: 42
+2025-01-13 14:40:40 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: ctrl, Scan code: 29
+2025-01-13 14:40:40 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: v, Scan code: 47
+2025-01-13 14:40:40 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: v, Scan code: 47
+2025-01-13 14:40:40 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: ctrl, Scan code: 29
+2025-01-13 14:40:40 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: end, Scan code: 79
+2025-01-13 14:40:40 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: end, Scan code: 79
+2025-01-13 14:40:42 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: ctrl, Scan code: 29
+2025-01-13 14:40:42 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: a, Scan code: 30
+2025-01-13 14:40:42 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: ctrl, Scan code: 29
+2025-01-13 14:40:42 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: a, Scan code: 30
+2025-01-13 14:40:42 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:40:42 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:40:42 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:40:42 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:40:42 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:40:42 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:40:42 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:40:42 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:40:43 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: l, Scan code: 38
+2025-01-13 14:40:43 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: l, Scan code: 38
+2025-01-13 14:40:43 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: a, Scan code: 30
+2025-01-13 14:40:43 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: a, Scan code: 30
+2025-01-13 14:40:43 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: a, Scan code: 30
+2025-01-13 14:40:43 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:40:43 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:40:43 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: m, Scan code: 50
+2025-01-13 14:40:43 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: a, Scan code: 30
+2025-01-13 14:40:43 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:40:43 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: m, Scan code: 50
+2025-01-13 14:40:43 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:40:43 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: t, Scan code: 20
+2025-01-13 14:40:44 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: h, Scan code: 35
+2025-01-13 14:40:44 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: t, Scan code: 20
+2025-01-13 14:40:44 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: h, Scan code: 35
+2025-01-13 14:40:44 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: a, Scan code: 30
+2025-01-13 14:40:44 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: n, Scan code: 49
+2025-01-13 14:40:44 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: a, Scan code: 30
+2025-01-13 14:40:44 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: n, Scan code: 49
+2025-01-13 14:40:44 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: h, Scan code: 35
+2025-01-13 14:40:44 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:40:44 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: h, Scan code: 35
+2025-01-13 14:40:44 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: p, Scan code: 25
+2025-01-13 14:40:44 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:40:44 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: p, Scan code: 25
+2025-01-13 14:40:44 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: h, Scan code: 35
+2025-01-13 14:40:44 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: h, Scan code: 35
+2025-01-13 14:40:44 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: o, Scan code: 24
+2025-01-13 14:40:44 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: n, Scan code: 49
+2025-01-13 14:40:44 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: o, Scan code: 24
+2025-01-13 14:40:44 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: g, Scan code: 34
+2025-01-13 14:40:44 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: n, Scan code: 49
+2025-01-13 14:40:44 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: g, Scan code: 34
+2025-01-13 14:40:45 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: ,, Scan code: 51
+2025-01-13 14:40:45 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: ,, Scan code: 51
+2025-01-13 14:40:45 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:40:45 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:40:45 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: l, Scan code: 38
+2025-01-13 14:40:45 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: a, Scan code: 30
+2025-01-13 14:40:45 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: l, Scan code: 38
+2025-01-13 14:40:45 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: a, Scan code: 30
+2025-01-13 14:40:45 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: a, Scan code: 30
+2025-01-13 14:40:45 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:40:45 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:40:45 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: m, Scan code: 50
+2025-01-13 14:40:46 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:40:46 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: a, Scan code: 30
+2025-01-13 14:40:46 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: m, Scan code: 50
+2025-01-13 14:40:46 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:40:46 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: t, Scan code: 20
+2025-01-13 14:40:46 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: h, Scan code: 35
+2025-01-13 14:40:46 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: t, Scan code: 20
+2025-01-13 14:40:46 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: h, Scan code: 35
+2025-01-13 14:40:46 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: a, Scan code: 30
+2025-01-13 14:40:46 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: n, Scan code: 49
+2025-01-13 14:40:46 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: a, Scan code: 30
+2025-01-13 14:40:46 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: n, Scan code: 49
+2025-01-13 14:40:46 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: h, Scan code: 35
+2025-01-13 14:40:46 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: h, Scan code: 35
+2025-01-13 14:40:46 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:40:46 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:40:46 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: f, Scan code: 33
+2025-01-13 14:40:46 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: f, Scan code: 33
+2025-01-13 14:40:46 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: o, Scan code: 24
+2025-01-13 14:40:47 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: n, Scan code: 49
+2025-01-13 14:40:47 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: o, Scan code: 24
+2025-01-13 14:40:47 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: n, Scan code: 49
+2025-01-13 14:40:47 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: g, Scan code: 34
+2025-01-13 14:40:47 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: g, Scan code: 34
+2025-01-13 14:40:47 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:40:47 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:40:47 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:40:47 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:40:47 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:40:47 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:40:47 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:40:47 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:40:47 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:40:47 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:40:48 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: o, Scan code: 24
+2025-01-13 14:40:48 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: o, Scan code: 24
+2025-01-13 14:40:48 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: k, Scan code: 37
+2025-01-13 14:40:48 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:40:48 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: k, Scan code: 37
+2025-01-13 14:40:48 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:40:48 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: k, Scan code: 37
+2025-01-13 14:40:48 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: k, Scan code: 37
+2025-01-13 14:40:48 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: h, Scan code: 35
+2025-01-13 14:40:48 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: h, Scan code: 35
+2025-01-13 14:40:48 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: o, Scan code: 24
+2025-01-13 14:40:48 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: o, Scan code: 24
+2025-01-13 14:40:48 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: n, Scan code: 49
+2025-01-13 14:40:49 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: n, Scan code: 49
+2025-01-13 14:40:49 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: g, Scan code: 34
+2025-01-13 14:40:49 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: g, Scan code: 34
+2025-01-13 14:40:49 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:40:49 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:40:49 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:40:49 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:40:49 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:40:49 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:40:49 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:40:49 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:40:50 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:40:50 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:40:50 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:40:50 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:40:50 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:40:50 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:40:50 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:40:50 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:40:51 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:40:51 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:40:51 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:40:51 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:40:51 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:40:51 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:40:51 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:40:51 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:40:52 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: ctrl, Scan code: 29
+2025-01-13 14:40:52 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: a, Scan code: 30
+2025-01-13 14:40:52 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: ctrl, Scan code: 29
+2025-01-13 14:40:52 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: a, Scan code: 30
+2025-01-13 14:40:52 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: l, Scan code: 38
+2025-01-13 14:40:52 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: l, Scan code: 38
+2025-01-13 14:40:52 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: a, Scan code: 30
+2025-01-13 14:40:52 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: m, Scan code: 50
+2025-01-13 14:40:52 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: a, Scan code: 30
+2025-01-13 14:40:52 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:40:52 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: m, Scan code: 50
+2025-01-13 14:40:53 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:40:53 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: t, Scan code: 20
+2025-01-13 14:40:53 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: h, Scan code: 35
+2025-01-13 14:40:53 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: t, Scan code: 20
+2025-01-13 14:40:53 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: h, Scan code: 35
+2025-01-13 14:40:53 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: a, Scan code: 30
+2025-01-13 14:40:53 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: n, Scan code: 49
+2025-01-13 14:40:53 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: a, Scan code: 30
+2025-01-13 14:40:53 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: n, Scan code: 49
+2025-01-13 14:40:53 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: h, Scan code: 35
+2025-01-13 14:40:53 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:40:53 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: h, Scan code: 35
+2025-01-13 14:40:53 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:40:53 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:40:53 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:40:53 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:40:53 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:40:53 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:40:54 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: f, Scan code: 33
+2025-01-13 14:40:54 - EVKeyboardSwitcher - DEBUG - Block phím f do đang xử lý Right Shift
+2025-01-13 14:40:54 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: o, Scan code: 24
+2025-01-13 14:40:54 - EVKeyboardSwitcher - DEBUG - Block phím o do đang xử lý Right Shift
+2025-01-13 14:40:54 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: f, Scan code: 33
+2025-01-13 14:40:54 - EVKeyboardSwitcher - DEBUG - Block phím f do đang xử lý Right Shift
+2025-01-13 14:40:54 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: n, Scan code: 49
+2025-01-13 14:40:54 - EVKeyboardSwitcher - DEBUG - Block phím n do đang xử lý Right Shift
+2025-01-13 14:40:54 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: o, Scan code: 24
+2025-01-13 14:40:54 - EVKeyboardSwitcher - DEBUG - Block phím o do đang xử lý Right Shift
+2025-01-13 14:40:54 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: n, Scan code: 49
+2025-01-13 14:40:54 - EVKeyboardSwitcher - DEBUG - Block phím n do đang xử lý Right Shift
+2025-01-13 14:40:54 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: g, Scan code: 34
+2025-01-13 14:40:54 - EVKeyboardSwitcher - DEBUG - Block phím g do đang xử lý Right Shift
+2025-01-13 14:40:54 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: g, Scan code: 34
+2025-01-13 14:40:54 - EVKeyboardSwitcher - DEBUG - Block phím g do đang xử lý Right Shift
+2025-01-13 14:40:55 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: ,, Scan code: 51
+2025-01-13 14:40:55 - EVKeyboardSwitcher - DEBUG - Block phím , do đang xử lý Right Shift
+2025-01-13 14:40:55 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: ,, Scan code: 51
+2025-01-13 14:40:55 - EVKeyboardSwitcher - DEBUG - Block phím , do đang xử lý Right Shift
+2025-01-13 14:40:55 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:40:55 - EVKeyboardSwitcher - DEBUG - Block phím space do đang xử lý Right Shift
+2025-01-13 14:40:55 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:40:55 - EVKeyboardSwitcher - DEBUG - Block phím space do đang xử lý Right Shift
+2025-01-13 14:40:55 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: l, Scan code: 38
+2025-01-13 14:40:55 - EVKeyboardSwitcher - DEBUG - Block phím l do đang xử lý Right Shift
+2025-01-13 14:40:55 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: a, Scan code: 30
+2025-01-13 14:40:55 - EVKeyboardSwitcher - DEBUG - Block phím a do đang xử lý Right Shift
+2025-01-13 14:40:55 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: l, Scan code: 38
+2025-01-13 14:40:55 - EVKeyboardSwitcher - DEBUG - Block phím l do đang xử lý Right Shift
+2025-01-13 14:40:55 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: a, Scan code: 30
+2025-01-13 14:40:55 - EVKeyboardSwitcher - DEBUG - Block phím a do đang xử lý Right Shift
+2025-01-13 14:40:55 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: a, Scan code: 30
+2025-01-13 14:40:55 - EVKeyboardSwitcher - DEBUG - Block phím a do đang xử lý Right Shift
+2025-01-13 14:40:55 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: m, Scan code: 50
+2025-01-13 14:40:55 - EVKeyboardSwitcher - DEBUG - Block phím m do đang xử lý Right Shift
+2025-01-13 14:40:55 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:40:55 - EVKeyboardSwitcher - DEBUG - Block phím space do đang xử lý Right Shift
+2025-01-13 14:40:55 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: a, Scan code: 30
+2025-01-13 14:40:55 - EVKeyboardSwitcher - DEBUG - Block phím a do đang xử lý Right Shift
+2025-01-13 14:40:55 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: m, Scan code: 50
+2025-01-13 14:40:55 - EVKeyboardSwitcher - DEBUG - Block phím m do đang xử lý Right Shift
+2025-01-13 14:40:55 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:40:55 - EVKeyboardSwitcher - DEBUG - Block phím space do đang xử lý Right Shift
+2025-01-13 14:40:55 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: t, Scan code: 20
+2025-01-13 14:40:55 - EVKeyboardSwitcher - DEBUG - Block phím t do đang xử lý Right Shift
+2025-01-13 14:40:56 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: h, Scan code: 35
+2025-01-13 14:40:56 - EVKeyboardSwitcher - DEBUG - Block phím h do đang xử lý Right Shift
+2025-01-13 14:40:56 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: t, Scan code: 20
+2025-01-13 14:40:56 - EVKeyboardSwitcher - DEBUG - Block phím t do đang xử lý Right Shift
+2025-01-13 14:40:56 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: h, Scan code: 35
+2025-01-13 14:40:56 - EVKeyboardSwitcher - DEBUG - Block phím h do đang xử lý Right Shift
+2025-01-13 14:40:56 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: a, Scan code: 30
+2025-01-13 14:40:56 - EVKeyboardSwitcher - DEBUG - Block phím a do đang xử lý Right Shift
+2025-01-13 14:40:56 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: a, Scan code: 30
+2025-01-13 14:40:56 - EVKeyboardSwitcher - DEBUG - Block phím a do đang xử lý Right Shift
+2025-01-13 14:40:56 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: n, Scan code: 49
+2025-01-13 14:40:56 - EVKeyboardSwitcher - DEBUG - Block phím n do đang xử lý Right Shift
+2025-01-13 14:40:56 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: n, Scan code: 49
+2025-01-13 14:40:56 - EVKeyboardSwitcher - DEBUG - Block phím n do đang xử lý Right Shift
+2025-01-13 14:40:56 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:40:56 - EVKeyboardSwitcher - DEBUG - Block phím backspace do đang xử lý Right Shift
+2025-01-13 14:40:57 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:40:57 - EVKeyboardSwitcher - DEBUG - Block phím backspace do đang xử lý Right Shift
+2025-01-13 14:40:57 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:40:57 - EVKeyboardSwitcher - DEBUG - Block phím backspace do đang xử lý Right Shift
+2025-01-13 14:40:57 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:40:57 - EVKeyboardSwitcher - DEBUG - Block phím backspace do đang xử lý Right Shift
+2025-01-13 14:40:57 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:40:57 - EVKeyboardSwitcher - DEBUG - Block phím backspace do đang xử lý Right Shift
+2025-01-13 14:40:57 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:40:57 - EVKeyboardSwitcher - DEBUG - Block phím backspace do đang xử lý Right Shift
+2025-01-13 14:40:57 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:40:57 - EVKeyboardSwitcher - DEBUG - Block phím backspace do đang xử lý Right Shift
+2025-01-13 14:40:57 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:40:57 - EVKeyboardSwitcher - DEBUG - Block phím backspace do đang xử lý Right Shift
+2025-01-13 14:40:57 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:40:57 - EVKeyboardSwitcher - DEBUG - Block phím backspace do đang xử lý Right Shift
+2025-01-13 14:40:57 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:40:57 - EVKeyboardSwitcher - DEBUG - Block phím backspace do đang xử lý Right Shift
+2025-01-13 14:40:57 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:40:57 - EVKeyboardSwitcher - DEBUG - Block phím backspace do đang xử lý Right Shift
+2025-01-13 14:40:57 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:40:57 - EVKeyboardSwitcher - DEBUG - Block phím backspace do đang xử lý Right Shift
+2025-01-13 14:40:57 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:40:57 - EVKeyboardSwitcher - DEBUG - Block phím backspace do đang xử lý Right Shift
+2025-01-13 14:40:57 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:40:57 - EVKeyboardSwitcher - DEBUG - Block phím backspace do đang xử lý Right Shift
+2025-01-13 14:40:57 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:40:57 - EVKeyboardSwitcher - DEBUG - Block phím space do đang xử lý Right Shift
+2025-01-13 14:40:58 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:40:58 - EVKeyboardSwitcher - DEBUG - Block phím space do đang xử lý Right Shift
+2025-01-13 14:40:58 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:40:58 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:40:58 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:40:58 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:40:58 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: l, Scan code: 38
+2025-01-13 14:40:58 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: a, Scan code: 30
+2025-01-13 14:40:58 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: l, Scan code: 38
+2025-01-13 14:40:58 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: a, Scan code: 30
+2025-01-13 14:40:59 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: a, Scan code: 30
+2025-01-13 14:40:59 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: m, Scan code: 50
+2025-01-13 14:40:59 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: a, Scan code: 30
+2025-01-13 14:40:59 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:40:59 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: m, Scan code: 50
+2025-01-13 14:40:59 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:40:59 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: t, Scan code: 20
+2025-01-13 14:40:59 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: t, Scan code: 20
+2025-01-13 14:40:59 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:41:00 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:41:00 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:41:00 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:41:00 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:41:00 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:41:00 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:41:00 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:41:00 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:41:00 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:41:00 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:41:00 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:41:00 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:41:00 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:41:00 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:41:00 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:41:01 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:41:01 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:41:01 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:41:01 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:41:01 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:41:01 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: l, Scan code: 38
+2025-01-13 14:41:01 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: l, Scan code: 38
+2025-01-13 14:41:01 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: a, Scan code: 30
+2025-01-13 14:41:01 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: a, Scan code: 30
+2025-01-13 14:41:01 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: a, Scan code: 30
+2025-01-13 14:41:01 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:41:01 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: backspace, Scan code: 14
+2025-01-13 14:41:01 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: m, Scan code: 50
+2025-01-13 14:41:01 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:41:01 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: a, Scan code: 30
+2025-01-13 14:41:01 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: m, Scan code: 50
+2025-01-13 14:41:01 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:41:01 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: t, Scan code: 20
+2025-01-13 14:41:02 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: h, Scan code: 35
+2025-01-13 14:41:02 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: t, Scan code: 20
+2025-01-13 14:41:02 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: h, Scan code: 35
+2025-01-13 14:41:02 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: a, Scan code: 30
+2025-01-13 14:41:02 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: n, Scan code: 49
+2025-01-13 14:41:02 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: a, Scan code: 30
+2025-01-13 14:41:02 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: n, Scan code: 49
+2025-01-13 14:41:02 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: h, Scan code: 35
+2025-01-13 14:41:02 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:41:02 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: h, Scan code: 35
+2025-01-13 14:41:02 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:41:02 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: f, Scan code: 33
+2025-01-13 14:41:02 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: o, Scan code: 24
+2025-01-13 14:41:02 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: f, Scan code: 33
+2025-01-13 14:41:02 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: n, Scan code: 49
+2025-01-13 14:41:02 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: o, Scan code: 24
+2025-01-13 14:41:02 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: g, Scan code: 34
+2025-01-13 14:41:02 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: n, Scan code: 49
+2025-01-13 14:41:02 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: g, Scan code: 34
+2025-01-13 14:41:02 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:41:03 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:41:03 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:41:03 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: space, Scan code: 57
+2025-01-13 14:41:03 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:41:03 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:41:03 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:41:03 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:41:03 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:41:03 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:41:03 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:41:03 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:41:04 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:41:04 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:41:04 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:41:04 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:41:04 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:41:04 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:41:04 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:41:04 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:41:05 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:41:05 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:41:05 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:41:05 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:41:05 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:41:06 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:41:06 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:41:06 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:41:06 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:41:07 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:41:07 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:41:07 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:41:07 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:41:07 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:41:07 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:41:07 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:41:07 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:41:08 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:41:08 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:41:08 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:41:08 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:41:08 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:41:08 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:41:08 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:41:08 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:41:09 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:41:09 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:41:09 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:41:09 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:41:09 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:41:09 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:41:09 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:41:09 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:41:09 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:41:09 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:41:09 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:41:09 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:41:09 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:41:09 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:41:10 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:41:10 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:41:10 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:41:10 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:41:10 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:41:10 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:41:10 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:41:10 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:41:10 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:41:10 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:41:11 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:41:11 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:41:11 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:41:11 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:41:11 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:41:11 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:41:11 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:41:11 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:41:12 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:41:12 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:41:12 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:41:12 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:41:12 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:41:12 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:41:12 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:41:12 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:41:12 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:41:12 - EVKeyboardSwitcher - DEBUG - Đã phát hiện phím Right Shift được nhấn
+2025-01-13 14:41:12 - EVKeyboardSwitcher - DEBUG - Bắt đầu chuyển ngôn ngữ
+2025-01-13 14:41:12 - EVKeyboardSwitcher - DEBUG - Đã chuyển ngôn ngữ thành công
+2025-01-13 14:41:12 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: đang chuyển
+2025-01-13 14:41:12 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: right shift, Scan code: 54
+2025-01-13 14:41:12 - EVKeyboardSwitcher - DEBUG - Đã cập nhật icon sang trạng thái: bình thường
+2025-01-13 14:41:12 - EVKeyboardSwitcher - DEBUG - Đã thả phím Right Shift, reset trạng thái
+2025-01-13 14:41:13 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: ctrl, Scan code: 29
+2025-01-13 14:41:13 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: a, Scan code: 30
+2025-01-13 14:41:13 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: ctrl, Scan code: 29
+2025-01-13 14:41:13 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: a, Scan code: 30
+2025-01-13 14:41:13 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: delete, Scan code: 83
+2025-01-13 14:41:13 - EVKeyboardSwitcher - DEBUG - Phím được nhấn: delete, Scan code: 83
