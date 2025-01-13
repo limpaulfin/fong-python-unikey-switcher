@@ -9,9 +9,8 @@ Related files:
 
 Chức năng:
 - Xử lý sự kiện bàn phím
-- Chuyển đổi ngôn ngữ khi nhấn phím Shift phải
+- Chuyển đổi ngôn ngữ nhập liệu khi nhấn phím Shift phải
 - Khi nhấn Right Shift sẽ kích hoạt tổ hợp Control + Left Shift
-- Block tất cả phím khác khi đang xử lý Right Shift
 - Hiển thị icon trên taskbar và thay đổi icon theo trạng thái
 - Chỉ cho phép chuyển ngôn ngữ khi không đang trong quá trình xử lý
 """
@@ -44,11 +43,6 @@ def update_icon(is_active=False):
 def on_any_key(event):
     global is_switching, is_processing
     logger.debug(f'Phím được nhấn: {event.name}, Scan code: {event.scan_code}')
-
-    # Nếu đang xử lý và không phải Right Shift, block tất cả phím khác
-    if is_processing and event.scan_code != 54:
-        logger.debug(f'Block phím {event.name} do đang xử lý Right Shift')
-        return False
 
     # Kiểm tra phím Right Shift (scan code 54)
     if event.scan_code == 54:
