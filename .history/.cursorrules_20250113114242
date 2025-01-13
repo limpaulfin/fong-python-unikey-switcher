@@ -1,0 +1,22 @@
+# Quy tắc coding cho dự án Keyboard Mapper
+
+1. Cấu trúc code:
+- Mỗi file phải có docstring mô tả chức năng và dependencies
+- Sử dụng PEP 8 style guide
+- Tên biến/hàm phải có ý nghĩa và theo snake_case
+
+2. Xử lý lỗi:
+- Bắt và xử lý tất cả exceptions có thể xảy ra
+- Log lỗi để debug
+
+3. Testing:
+- Viết unit test cho các hàm chính
+- Test kỹ các edge cases
+
+4. Performance:
+- Tối ưu việc bắt sự kiện phím
+- Tránh memory leaks
+
+5. Security:
+- Kiểm tra quyền admin trước khi chạy
+- Không lưu thông tin nhạy cảm

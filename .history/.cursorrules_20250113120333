@@ -1,0 +1,46 @@
+# Quy tắc coding cho dự án Keyboard Mapper
+
+1. Cấu trúc code:
+- Mỗi file phải có docstring mô tả chức năng và dependencies
+- Sử dụng PEP 8 style guide
+- Tên biến/hàm phải có ý nghĩa và theo snake_case
+- Mỗi file Python phải có phần mô tả đầu file bao gồm:
+  + Danh sách các files liên quan và mối quan hệ/phụ thuộc
+  + Chức năng và logic chính của file:
+    * Mục đích và vai trò của file trong hệ thống
+    * Các chức năng chính file đảm nhiệm
+    * Cách thức hoạt động và logic xử lý
+    * Input/Output và các ràng buộc cần lưu ý
+  + Ví dụ mẫu:
+    ```python
+    """
+    Related files:
+    - file1.py: Mô tả mối quan hệ/phụ thuộc
+    - file2.py: Mô tả mối quan hệ/phụ thuộc
+
+    Chức năng:
+    - Mục đích chính của file
+    - Các chức năng quan trọng
+    - Logic xử lý chính
+    - Input/Output và ràng buộc
+    """
+    ```
+
+2. Xử lý lỗi:
+- Bắt và xử lý tất cả exceptions có thể xảy ra
+- Log lỗi để debug
+
+3. Testing:
+- Viết unit test cho các hàm chính
+- Test kỹ các edge cases
+
+4. Performance:
+- Tối ưu việc bắt sự kiện phím
+- Tránh memory leaks
+
+5. Security:
+- Kiểm tra quyền admin trước khi chạy
+- Không lưu thông tin nhạy cảm
+
+
+Snake case: Sử dụng chữ thường và dấu gạch dưới
