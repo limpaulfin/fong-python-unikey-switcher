@@ -13,10 +13,13 @@ Chức năng:
 - Điểm vào chính của ứng dụng
 - Khởi tạo các module
 - Duy trì vòng lặp chính
+- Sử dụng pynput để bắt sự kiện bàn phím (không cần quyền admin)
 """
 
 import os
 import sys
+import threading
+import time
 
 # Thêm thư mục gốc vào PYTHONPATH
 current_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -30,7 +33,7 @@ check_and_install_dependencies()
 
 # Import các module khác
 try:
-    import keyboard
+    from pynput import keyboard
     from src.utils.logger import logger
     from src.keyboard_handler.switcher import setup_keyboard_handler
     from src.utils.tree_generator import update_tree_file
@@ -47,10 +50,15 @@ def main():
         update_tree_file()
 
         # Thiết lập keyboard handler
-        setup_keyboard_handler()
+        keyboard_handler = setup_keyboard_handler()
 
-        # Giữ chương trình chạy
-        keyboard.wait()
+        # Tạo và khởi động keyboard listener
+        with keyboard.Listener(
+            on_press=keyboard_handler.on_press,
+            on_release=keyboard_handler.on_release
+        ) as listener:
+            listener.join()  # Giữ chương trình chạy
+
     except Exception as e:
         logger.error(f'Lỗi trong hàm main: {str(e)}')
 

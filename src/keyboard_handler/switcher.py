@@ -10,11 +10,10 @@ Related files:
 Chức năng:
 - Xử lý sự kiện bàn phím
 - Chuyển đổi ngôn ngữ khi nhấn phím Shift phải
-- Khi nhấn Right Shift sẽ kích hoạt tổ hợp Control + Left Shift
-- Block tất cả phím khác khi đang xử lý Right Shift
+- Cho phép nhấn Right Shift nhiều lần để chuyển ngôn ngữ nhiều lần
+- Chỉ block input khi đang trong quá trình chuyển ngôn ngữ
+- Whitelist cho phép Right Shift, Control, Left Shift hoạt động bình thường
 - Hiển thị icon trên taskbar và thay đổi icon theo trạng thái
-- Chỉ cho phép chuyển ngôn ngữ khi không đang trong quá trình xử lý
-- Có cơ chế debounce để tránh trigger nhiều lần
 """
 
 import keyboard
@@ -22,15 +21,23 @@ from time import sleep, time
 import pystray
 from PIL import Image
 import os
+from threading import Thread, Lock
 from src.utils.logger import logger
 
 # Biến toàn cục để lưu icon và trạng thái
 tray_icon = None
-is_switching = False  # Flag để kiểm soát việc chuyển ngôn ngữ
 is_processing = False  # Flag để kiểm soát quá trình xử lý
-last_switch_time = 0  # Thời điểm lần cuối chuyển ngôn ngữ
-SWITCH_COOLDOWN = 0.5  # Thời gian chờ tối thiểu giữa các lần chuyển (500ms)
+switch_count = 0  # Số lần cần chuyển ngôn ngữ
+SWITCH_COOLDOWN = 0.1  # Thời gian chờ giữa các lần chuyển
 BASE_PATH = os.path.dirname(os.path.dirname(os.path.dirname(__file__)))
+switch_lock = Lock()  # Lock để đồng bộ hóa việc chuyển ngôn ngữ
+
+# Whitelist các phím được phép
+WHITELISTED_SCANCODES = {
+    54,  # Right Shift
+    29,  # Control
+    42,  # Left Shift
+}
 
 def update_icon(is_active=False):
     """Cập nhật icon dựa trên trạng thái"""
@@ -44,55 +51,69 @@ def update_icon(is_active=False):
     except Exception as e:
         logger.error(f'Lỗi khi cập nhật icon: {str(e)}')
 
-def on_any_key(event):
-    global is_switching, is_processing, last_switch_time
-    logger.debug(f'Phím được nhấn: {event.name}, Scan code: {event.scan_code}')
-
-    current_time = time()
-
-    # Nếu đang xử lý và không phải Right Shift, block tất cả phím khác
-    if is_processing and event.scan_code != 54:
-        logger.debug(f'Block phím {event.name} do đang xử lý Right Shift')
-        return False
-
-    # Kiểm tra phím Right Shift (scan code 54)
-    if event.scan_code == 54:
-        if event.event_type == 'down':
-            # Kiểm tra thời gian chờ
-            if current_time - last_switch_time < SWITCH_COOLDOWN:
-                logger.debug('Block do chưa hết thời gian chờ')
-                return False
-
-            if not is_switching and not is_processing:
-                logger.debug('Đã phát hiện phím Right Shift được nhấn')
-                is_switching = True
-                is_processing = True
-                last_switch_time = current_time
-                switch_language()
-                update_icon(True)
-        elif event.event_type == 'up' and is_switching:
-            is_switching = False
-            is_processing = False
-            update_icon(False)
-            logger.debug('Đã thả phím Right Shift, reset trạng thái')
-
 def switch_language():
+    """Thực hiện chuyển ngôn ngữ một lần"""
     try:
-        logger.debug('Bắt đầu chuyển ngôn ngữ')
-        # Giảm thời gian đợi xuống 100ms
         keyboard.press('ctrl')
         keyboard.press('left shift')
-        sleep(0.1)  # Giảm từ 300ms xuống 100ms
+        sleep(0.1)
         keyboard.release('left shift')
         keyboard.release('ctrl')
         logger.debug('Đã chuyển ngôn ngữ thành công')
+        return True
     except Exception as e:
         logger.error(f'Lỗi khi chuyển ngôn ngữ: {str(e)}')
-        # Reset trạng thái nếu có lỗi
-        global is_switching, is_processing
-        is_switching = False
-        is_processing = False
-        update_icon(False)
+        return False
+
+def process_language_switches():
+    """Xử lý việc chuyển ngôn ngữ nhiều lần"""
+    global switch_count, is_processing
+
+    def switch_thread():
+        global switch_count, is_processing
+        with switch_lock:
+            try:
+                update_icon(True)
+                while switch_count > 0:
+                    if switch_language():
+                        switch_count -= 1
+                        if switch_count > 0:
+                            sleep(SWITCH_COOLDOWN)
+                    else:
+                        break
+            finally:
+                switch_count = 0
+                is_processing = False
+                update_icon(False)
+                logger.debug('Hoàn tất quá trình chuyển ngôn ngữ')
+
+    Thread(target=switch_thread, daemon=True).start()
+
+def on_any_key(event):
+    """Xử lý sự kiện bàn phím"""
+    global switch_count, is_processing
+
+    # Log thông tin phím
+    logger.debug(f'Phím được nhấn: {event.name}, Scan code: {event.scan_code}, Event: {event.event_type}')
+
+    # Cho phép các phím trong whitelist
+    if event.scan_code in WHITELISTED_SCANCODES:
+        # Xử lý Right Shift
+        if event.scan_code == 54 and event.event_type == 'down':
+            switch_count += 1
+            logger.debug(f'Đã nhấn Right Shift, số lần cần chuyển: {switch_count}')
+
+            if not is_processing:
+                is_processing = True
+                process_language_switches()
+        return True
+
+    # Block input khi đang xử lý chuyển ngôn ngữ
+    if is_processing:
+        logger.debug(f'Block phím {event.name} do đang xử lý chuyển ngôn ngữ')
+        return False
+
+    return True
 
 def create_tray_icon():
     try:
